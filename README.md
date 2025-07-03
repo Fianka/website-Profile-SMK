@@ -1,21 +1,9 @@
-# 🎬 Simple Bioskop Website
+# 🏫 Website Profile Sederhana SMK NU Hasyim Asyari
 
-Website sederhana untuk melihat daftar film, jadwal tayang, dan melakukan pemesanan tiket bioskop.
-
-## 📌 Fitur
-
-- 🔍 Lihat daftar film yang sedang tayang
-- 📅 Cek jadwal tayang setiap film
-- 🎟️ Pesan tiket secara online
-
-## 🛠️ Teknologi yang Digunakan
-
-- HTML
-- CSS
-- JavaScript
+Website sederhana untuk menampilkan profil sebuah Sekolah Menengah Kejuruan (SMK). Dibuat menggunakan HTML, CSS, dan JavaScript.
 
 ## 🚀 Cara Menjalankan
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/Fianka/website-bioskop.git
+   git clone https://github.com/username/smk-profile-website.git
